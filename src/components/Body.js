@@ -13,10 +13,12 @@ const Body = () => {
    const fetchData = async () => {
 
    const data1 = await fetch("https://www.swiggy.com/dapi/restaurants/list/v5?lat=30.7281946&lng=76.657876&page_type=DESKTOP_WEB_LISTING");
+  //  const data = await fetch('https://www.swiggy.com/dapi/restaurants/list/v5?lat=28.7040592&lng=77.10249019999999&collection=83667');
 
    const json = await data1.json();
-    console.log(json);
-    setListOfRes(json.data.cards);
+   console.log("api data",json);
+  //  console.log("apiData", json?.data.cards[2]);
+   setListOfRes(json.data.cards[4]?.card?.card?.gridElements?.infoWithStyle?.restaurants);
   }
 
   
