@@ -1,0 +1,78 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+
+.header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 10px;
+    width: auto;
+}
+
+
+.logo{
+    width: 200px;
+    height: 150px;
+ }
+
+
+ .nav-items{   
+    padding: 0 10px 0;
+    width: auto;
+}
+
+ .nav-items>ul{
+    display: flex;
+    cursor: pointer;
+    list-style-type: none;
+    font-size: 24px;
+ }
+
+ .nav-items>ul>li{
+    margin: 9px;
+    padding: 9px;
+ }
+
+ .search-bar{
+    padding: 10px;
+ }
+
+ .res-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    
+ }
+
+ .res-card{
+    width: 200px;
+    
+    padding: 5px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: #f0f0f0;
+    border: 1px solid black;
+    transition: transform 0.4s ease;
+ }
+
+ .res-card:hover{
+    cursor: pointer;
+    border: 1px solid transparent;
+    transform: scale(1.1);
+
+ }
+
+ .res-foodImg{
+   padding-right: 5px;
+   width: 200px;
+   height: 180px;
+ }
+
+ .filter-btn{
+   margin: 10px;
+   padding: 5px;
+ }
+ 
