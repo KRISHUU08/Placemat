@@ -71,8 +71,28 @@
    height: 180px;
  }
 
+ .filter{
+   display: flex;
+   align-items: center;
+   
+ }
+
  .filter-btn{
    margin: 10px;
+   padding: 2px;
+ }
+
+ .shimmer-container{
+   display: flex;
+   flex-wrap: wrap;;
    padding: 5px;
+   gap: 2rem;
+ }
+
+ .shimmer-card{
+   margin: 20px;
+   width: 200px;
+   height: 200px;
+   background-color: rgb(243, 237, 237);
  }
  
