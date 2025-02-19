@@ -5,7 +5,7 @@ Placmat is a dynamic food ordering web application built with React, leveraging 
 
 ## 🚀 Live Demo
 
-[Live Demo](https://your-live-demo-link.com)
+[Live Demo](https://placemat.vercel.app)
 
 ---
 
