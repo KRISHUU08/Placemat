@@ -1,0 +1,82 @@
+{
+    "info": {
+        "id": "58374",
+        "name": "Subway",
+        "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/1/21/68a891e8-be22-43f3-a3d4-0ecd32cf285a_58374.JPG",
+        "locality": "Mohali",
+        "areaName": "Sector 70",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+            "sandwich",
+            "Salads",
+            "wrap",
+            "Healthy Food"
+        ],
+        "avgRating": 4.4,
+        "parentId": "2",
+        "avgRatingString": "4.4",
+        "totalRatingsString": "14K+",
+        "sla": {
+            "deliveryTime": 36,
+            "lastMileTravel": 7.7,
+            "serviceability": "SERVICEABLE",
+            "slaString": "35-40 mins",
+            "lastMileTravelString": "7.7 km",
+            "iconType": "ICON_TYPE_EMPTY"
+        },
+        "availability": {
+            "nextCloseTime": "2025-02-08 07:30:00",
+            "opened": true
+        },
+        "badges": {
+            "imageBadges": [
+                {
+                    "imageId": "Rxawards/_CATEGORY-Sandwiches.png",
+                    "description": "Delivery!"
+                }
+            ]
+        },
+        "isOpen": true,
+        "aggregatedDiscountInfoV2": {},
+        "type": "F",
+        "badgesV2": {
+            "entityBadges": {
+                "imageBased": {
+                    "badgeObject": [
+                        {
+                            "attributes": {
+                                "description": "Delivery!",
+                                "imageId": "Rxawards/_CATEGORY-Sandwiches.png"
+                            }
+                        }
+                    ]
+                },
+                "textBased": {},
+                "textExtendedBadges": {}
+            }
+        },
+        "differentiatedUi": {
+            "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+            "differentiatedUiMediaDetails": {
+                "lottie": {},
+                "video": {}
+            }
+        },
+        "reviewsSummary": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {},
+        "externalRatings": {
+            "aggregatedRating": {
+                "rating": "--"
+            }
+        },
+        "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+    },
+    "analytics": {
+        "context": "seo-data-7307dcac-85ad-4aff-b76e-d75409f2bbec"
+    },
+    "cta": {
+        "link": "https://www.swiggy.com/city/chandigarh/subway-mohali-sector-70-rest58374",
+        "type": "WEBLINK"
+    }
+}
