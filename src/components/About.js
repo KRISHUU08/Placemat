@@ -28,7 +28,7 @@ class About extends Component {
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 1 }}
         >
-          About GrabEats
+          About Placemat
         </motion.h1>
 
         <motion.div
@@ -38,12 +38,12 @@ class About extends Component {
           transition={{ duration: 1, delay: 0.5 }}
         >
           <p className="text-lg text-white mb-4">
-            At GrabEats, we are passionate about bringing delicious and diverse cuisines right to your doorstep.
+            At Placemat, we are passionate about bringing delicious and diverse cuisines right to your doorstep.
             Our mission is to connect food lovers with their favorite restaurants and provide a seamless food delivery experience.
           </p>
           <p className="text-md text-gray-300 mb-6">
             We believe in quality, speed, and customer satisfaction. Whether you're craving comfort food or exploring new flavors,
-            GrabEats is here to make your dining experience memorable.
+            Placemat is here to make your dining experience memorable.
           </p>
           <userContext.Consumer>
             {({ loggedInUser }) => (
