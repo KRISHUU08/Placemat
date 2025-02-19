@@ -63,8 +63,8 @@ npm run build
 
 ## 🌐 Links
 
-- **Live Site:** [Placmat](https://your-live-demo-link.com)
-- **Repository:** [GitHub](https://github.com/KRISHUU08/REACT)
+- **Live Site:** [Placmat](https://placemat.vercel.app)
+- **Repository:** [GitHub](https://github.com/KRISHUU08/Placemat)
 
 ---
 
