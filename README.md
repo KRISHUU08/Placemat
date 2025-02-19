@@ -1,3 +1,4 @@
+
 # Placmat 🍽️
 
 Placmat is a dynamic food ordering web application built with React, leveraging the Swiggy APIs to provide users with an intuitive and seamless experience for browsing and ordering food from local restaurants.
