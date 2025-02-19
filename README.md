@@ -38,8 +38,7 @@ Placmat is a dynamic food ordering web application built with React, leveraging 
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/your-username/Placmat.git
-cd Placmat
+git clone https://github.com/KRISHUU08/Placemat.git
 ```
 
 2. **Install dependencies:**
