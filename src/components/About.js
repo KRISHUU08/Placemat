@@ -1,6 +1,6 @@
 import { Component } from "react";
 import userContext from "../utils/userContext";
-import UserClass from "./UserClass";
+
 import { motion } from "framer-motion";
 
 class About extends Component {
@@ -54,7 +54,6 @@ class About extends Component {
           </userContext.Consumer>
         </motion.div>
 
-        <UserClass name="Krish (class)" location="Chandigarh" />
       </div>
     );
   }
