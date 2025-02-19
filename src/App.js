@@ -22,7 +22,7 @@ import { Shimmer } from "./components/shimmer";
 import userContext from "./utils/userContext";
 import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
-import Cart from "./components/cart";
+import Cart from "./components/Cart";
 import Login from "./components/Login";
 
 
