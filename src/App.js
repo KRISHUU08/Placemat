@@ -1,13 +1,3 @@
-/* <script>
-      const heading = document.createElement("h1")
-      heading.innerHTML = "hello ji !";
-      root.appendChild(heading);
-    </script> */
-
-// const heading = React.createElement("h1", {}, "hello ji");
-// const root = ReactDOM.createRoot(document.getElementById("root"));
-// root.render(heading);
-
 import React, { lazy, Suspense, useEffect, useState } from "react";
 import ReactDOM  from "react-dom/client";
 
@@ -24,30 +14,6 @@ import { Provider } from "react-redux";
 import appStore from "./utils/appStore";
 import Cart from "./components/Cart";
 import Login from "./components/Login";
-
-
-
-           //use {} this//
-/*const parent = React.createElement("div", {id : "parent"},
-React.createElement("div", {id : "child"}, 
-React.createElement("h1", {}, "hey krish" )));
-
-const root = ReactDOM.createRoot(document.getElementById("root"));
-root.render(parent); */
-
-          //JSX// OR reactElement
-// const jsxHeading = <h1 id="heading">This is JSX method</h1>;
-
-
-//          //Function Component
-// const HeadingComponent = () =>(
-// <div id="container">
-//   {jsxHeading}                     
-//    <h1>this is Component</h1>
-//    </div>
-// )
-
-
 
 //food app//
 /* My Food App structure will look like this, 
